@@ -11,6 +11,11 @@ def division(x, y):
     if y != 0:
         return x / y
 
+def mod(x, y)
+    if y != 0
+        return x % y
+
+
 flag = True
 file = open("tests.txt")
 while flag:
