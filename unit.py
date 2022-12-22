@@ -10,7 +10,7 @@ class UnitTests(unittest.TestCase):
     self.assertEqual(subtraction(3, 5), -2)
 
   def testMultiplication(self):
-    self.assertEqual(multiplication(4, 2), 9)
+    self.assertEqual(multiplication(4, 2), 98)
 
   def testDivision(self):
     self.assertEqual(division(12, 3), 4)
