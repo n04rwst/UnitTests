@@ -4,7 +4,7 @@ from calculator import *
 class UnitTests(unittest.TestCase):
 
   def testAddition(self):
-    self.assertEqual(addition(2, 3), 5)
+    self.assertEqual(addition(2, 3), 6)
 
   def testSubtraction(self):
     self.assertEqual(subtraction(3, 5), -2)
